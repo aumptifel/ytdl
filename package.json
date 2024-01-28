@@ -1,3 +1,10 @@
+/*"homepage": "https://aumptifel.github.io/ytdl/",
+
+"scripts" : {
+  "predeploy": "npm run build",
+  "deploy": "main -d dist",
+},*/
+
 {
   "devDependencies": {
     "tailwindcss": "^3.4.0"
